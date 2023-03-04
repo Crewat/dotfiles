@@ -14,3 +14,6 @@
 [checkout]
 	defaultRemote	= origin
 
+[user]
+	email = 77316733+Crewat@users.noreply.github.com
+	name = Crewat
